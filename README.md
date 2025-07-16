@@ -1,6 +1,6 @@
 # Next.js Cluster Example with PM2 and server.js
 
-Este repositório serve como exemplo de clusterização de um aplicativo Node.js (Next.js ou qualquer servidor HTTP) usando a API de `cluster` do Node e gerenciado pelo PM2 para múltiplos workers na **mesma porta**.
+Este repositório serve como exemplo de clusterização de um aplicativo Node.js (no caso desse exemplo em Next.js mas pode ser qualquer servidor servidor HTTP) usando a API de `cluster` do Node e gerenciado pelo PM2 para múltiplos workers na **mesma porta**.
 
 ---
 
